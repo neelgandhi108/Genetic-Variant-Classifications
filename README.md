@@ -3,7 +3,7 @@
 
 In the era of next-generation sequencing, the exponential growth of genomic data has presented a significant challenge for clinicians. This challenge revolves around the conflicting classifications of genetic variants' pathogenicity. Despite the establishment of standardized guidelines by the American College of Genetics and Genomics (AMCG), inconsistencies in variant classification persist, profoundly affecting patient care decisions.
 
-![EDA-Genetics](https://github.com/neelgandhi108/Genetic-Variant-Classifications/blob/main/Assets/SMOTE-Genetics.pngEDA-Genetics.png)
+![EDA-Genetics](https://github.com/neelgandhi108/Genetic-Variant-Classifications/blob/main/Assets/EDA-Genetics.png)
 
 Previous research has not delved into the exploration of the key factors that influence the ultimate classification of these variants. Our primary objective is not only to develop a high-performing classification model but also to identify the pivotal features that enhance classification efficiency.
 
